@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>dsvbds</div>;
+  return <div>bingogit commit -m "Initial commit: setup bingo webapp"</div>;
 }
